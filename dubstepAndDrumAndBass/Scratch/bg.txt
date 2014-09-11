@@ -1,0 +1,3 @@
+get bg to be a repeating pattern and the text in a table or something visible
+
+make the text white or something
