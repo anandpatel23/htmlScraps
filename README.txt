@@ -1,0 +1,1 @@
+I'll be uploading some work I created in high school when I was first introduced to HTML & CSS. These are my very first attempts at markup. 
